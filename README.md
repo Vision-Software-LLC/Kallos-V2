@@ -1,6 +1,6 @@
 # Kallos UI Library V2
 
-Kallos is a Lua-based UI library designed for Roblox developers. It provides a modular and customizable framework to create stunning and functional user interfaces for your projects. The library includes built-in components like labels, toggles, sliders, keybinds, text inputs, and dropdown menus.
+Kallos is a Lua-based UI library designed exclusively for Vision Hub V3. It provides a modular and customizable framework to create a stunning and functional user interface for the script hub. The library includes built-in components like labels, toggles, sliders, keybinds, text inputs, and dropdown menus.
 
 ## Features
 
@@ -11,7 +11,7 @@ Kallos is a Lua-based UI library designed for Roblox developers. It provides a m
 
 ## Getting Started
 
-To get started, add the `kallos.lua` file to your Roblox project. Include the library in your script:
+To get started, load the library using the loadstring below:
 
 ```lua
 local kallos = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vision-Software-LLC/Kallos-V2/refs/heads/main/source.min.lua"))()
