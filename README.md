@@ -2,6 +2,7 @@
 
 Kallos is a Lua-based UI library designed exclusively for Vision Hub V3. It provides a modular and customizable framework to create a stunning and functional user interface for the script hub. The library includes built-in components like labels, toggles, sliders, keybinds, text inputs, and dropdown menus.
 
+This library is still a work in progress.
 ## Features
 
 - **Ease of Use**: Simple API to create and manage UI elements.
